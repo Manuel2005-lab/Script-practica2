@@ -6,6 +6,6 @@ for file in *.fasta
 #El grep busca entre las file lo que he puesto entre parentesis y al poner -B 1 tambien añade la linea de arriba. El no group lo he puesto porque al mostrar mi codigo a mi guia de confianza me ha dicho que las separaciones del grep no son compatibles con el .fasta. El >> es para que al añadir nueva info no me borre lo viejo
 done
 #Significa que ya ha terminado el bucle
-echo "Asi se ha hecho mi senor"
+echo "Asi se ha hecho mi señor"
 #El echo es para que ponga algo en la pantalla. La practica no lo pide, pero me gusto como implementación
 
